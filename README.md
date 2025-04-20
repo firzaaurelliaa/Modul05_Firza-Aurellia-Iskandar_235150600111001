@@ -1,1 +1,7 @@
-# Modul05_Firza-Aurellia-Iskandar_235150600111001
+📁 Modul 5 Mempercantik Tampilan Web dengan CSS
+
+👤 Identitas
+Nama : Firza Aurellia Iskandar
+NIM : 235150600111001
+
+🔗 Link Penjelasan Tugas clips.id/Video-Penjelasan-5
