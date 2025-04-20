@@ -1,0 +1,26 @@
+body {
+    background-color: #6495ED;
+    margin: 20px;
+}
+
+h1 {
+    color: white;
+    text-shadow: 1px 2px 5px black;
+}
+
+.kotak {
+    background-color: #6495ED;
+    border: 12px solid #00008B;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    width: 300px;
+    margin: 20px;
+}
+
+.kotak h2 {
+    color: white;
+}
+
+ul {
+    color: #252525;
+}
